@@ -48,3 +48,5 @@
 
 ###
 
+![snake gif](https://github.com/aledigirm3/aledigirm3/blob/output/github-snake-dark.svg)
+
