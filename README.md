@@ -2,7 +2,11 @@
 
 ###
 
-<img align="right" height="150" src="https://science.nasa.gov/wp-content/uploads/2023/09/fermi-rain-gif-detail.gif?w=2048&format=webp"  />
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
 
 ###
 
