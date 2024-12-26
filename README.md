@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Diggi, asoftware engineer from Italy</h2>
+<h2 align="left">Hi 👋! I'm Diggi, a software engineer from Italy</h2>
 
 ###
 
